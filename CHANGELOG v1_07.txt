@@ -1,0 +1,10 @@
+### VERSION 1.07 CHANGE LOG ###
+
+Changes
+
+	- This update was implemented so that data could be directly pulled from the 
+	colleagues sharepoint data list as the data_Master_CEProcess.xlsx 
+	spreadsheet is no longer being supported
+
+
+
